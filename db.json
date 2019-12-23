@@ -35,6 +35,12 @@
       "description": "Fullstack Bless",
       "url": "https://www.floflo.com/",
       "id": 6
+    },
+    {
+      "name": "Vue Js",
+      "description": "Fullstack Vue",
+      "url": "https://www.vuejs.com/",
+      "id": 6
     }
   ]
 }
